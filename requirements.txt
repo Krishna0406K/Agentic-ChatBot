@@ -80,3 +80,4 @@ text-generation
 transformers
 sentence-transformers
 langchain-community
+langchian-groq
