@@ -79,3 +79,4 @@ langchain-huggingface
 text-generation
 transformers
 sentence-transformers
+langchain-community
