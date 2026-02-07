@@ -82,3 +82,5 @@ sentence-transformers
 langchain-groq
 langchain-community
 faiss-cpu
+altair.vegalite.v4
+streamlit-nightly
