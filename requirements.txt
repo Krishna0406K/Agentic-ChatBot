@@ -42,3 +42,4 @@ ddgs
 pydantic>=2.0.0
 tiktoken>=0.5.0
 tenacity>=8.2.0
+pypdf
